@@ -1,0 +1,12 @@
+﻿değişken,n,ana_test,test_istatistiği,p_değeri,p_kararı,anderson_istatistiği,anderson_5pct_kritik,anderson_kararı
+age,3000,D'Agostino K2,2411.341940197559,0.0,H0 reddedilir: normal dağılıma uygun değildir.,33.60793357042394,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+annual_income_usd,3000,D'Agostino K2,2265.2013252113616,0.0,H0 reddedilir: normal dağılıma uygun değildir.,32.24573296712242,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+children_count,3000,D'Agostino K2,6757.714775817369,0.0,H0 reddedilir: normal dağılıma uygun değildir.,87.75490148855852,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+smokes_per_day,3000,D'Agostino K2,45.278642204560335,1.4718642986799333e-10,H0 reddedilir: normal dağılıma uygun değildir.,16.141036979114688,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+drinks_per_week,3000,D'Agostino K2,98.88681702784126,3.3651196913145342e-22,H0 reddedilir: normal dağılıma uygun değildir.,33.62776325349296,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+age_started_smoking,3000,D'Agostino K2,398.2431068675535,3.3312568216514735e-87,H0 reddedilir: normal dağılıma uygun değildir.,37.089751372417595,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+age_started_drinking,3000,D'Agostino K2,427.12847098311033,1.7792254993514508e-93,H0 reddedilir: normal dağılıma uygun değildir.,35.08170517297094,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+attempts_to_quit_smoking,3000,D'Agostino K2,2182.36964246007,0.0,H0 reddedilir: normal dağılıma uygun değildir.,47.67234096528637,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+attempts_to_quit_drinking,3000,D'Agostino K2,3371.6407550014774,0.0,H0 reddedilir: normal dağılıma uygun değildir.,52.898977995937,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+sleep_hours,3000,D'Agostino K2,1.3172021077854952,0.5175748876420436,H0 reddedilemez: normal dağılıma aykırı güçlü kanıt yoktur.,0.7554143999168446,0.752,H0 reddedilir: normal dağılıma uygun değildir.
+bmi,3000,D'Agostino K2,1.3991125697173845,0.4968056951015173,H0 reddedilemez: normal dağılıma aykırı güçlü kanıt yoktur.,0.5264363218502695,0.752,H0 reddedilemez: normal dağılıma aykırı güçlü kanıt yoktur.

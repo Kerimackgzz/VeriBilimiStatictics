@@ -1,0 +1,4 @@
+﻿hipotez,test,değişkenler,istatistik,p_değeri,karar
+H1,Tek örneklem t testi,sleep_hours vs 7 saat,-19.391551224035446,5.155282642095363e-79,H0 reddedilir
+H2,Mann-Whitney U,has_health_issues gruplarına göre smokes_per_day,1132230.5,0.757754844084292,H0 reddedilemez
+H3,İki örneklem oran Z testi,gender gruplarında has_health_issues oranı,-0.9880383469441593,0.323133868196112,H0 reddedilemez

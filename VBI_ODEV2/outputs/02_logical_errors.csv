@@ -1,0 +1,13 @@
+﻿kontrol,hatalı_kayıt_sayısı,yorum
+age_started_smoking > age,462,Sigara başlama yaşı kişinin mevcut yaşından büyük olamaz.
+age_started_drinking > age,505,Alkole başlama yaşı kişinin mevcut yaşından büyük olamaz.
+age mantıksal aralık kontrolü,0,age için beklenen aralık: 0 - 120.
+annual_income_usd mantıksal aralık kontrolü,0,annual_income_usd için beklenen aralık: 0 - üst sınır yok.
+children_count mantıksal aralık kontrolü,0,children_count için beklenen aralık: 0 - üst sınır yok.
+smokes_per_day mantıksal aralık kontrolü,0,smokes_per_day için beklenen aralık: 0 - üst sınır yok.
+drinks_per_week mantıksal aralık kontrolü,0,drinks_per_week için beklenen aralık: 0 - üst sınır yok.
+attempts_to_quit_smoking mantıksal aralık kontrolü,0,attempts_to_quit_smoking için beklenen aralık: 0 - üst sınır yok.
+attempts_to_quit_drinking mantıksal aralık kontrolü,0,attempts_to_quit_drinking için beklenen aralık: 0 - üst sınır yok.
+sleep_hours mantıksal aralık kontrolü,0,sleep_hours için beklenen aralık: 0 - 24.
+bmi mantıksal aralık kontrolü,1,bmi için beklenen aralık: 10 - 80.
+children_count > 0 ve age < 15,0,15 yaş altı bireylerde çocuk sayısı pozitifse mantıksal tutarsızlık olabilir.
